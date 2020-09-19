@@ -1,4 +1,4 @@
-![Demo Animation](../assets/Mykea\ pictures\ service\ gif\ demo.gif?raw=true)
+![Demo Animation](../assets/demo.gif?raw=true)
 
 # MyKEA
 
