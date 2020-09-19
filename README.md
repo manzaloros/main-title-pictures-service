@@ -1,4 +1,6 @@
-# Project Name
+![Demo Animation](../assets/Mykea\ pictures\ service\ gif\ demo.gif?raw=true)
+
+# MyKEA
 
 > MYKEA Main Pictures Display and Carousel Modal
 
