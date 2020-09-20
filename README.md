@@ -26,11 +26,11 @@
 > Example url:
 > http://localhost:3000/1
 
-> `run schema` will drop DB and create a new DB with tables.
-> `node db/seed.js` will seed the DB with random products.
+> `run schema` drops mySQL database and creates a new database and tables.
+> `node db/seed.js` seeds the database with random products.
 
-> `npm run build` will build webpack and watch files.
-> `npm run server` starts nodemon and server and watches for changes.
+> `npm run build` builds webpack and watch files.
+> `npm run server` starts server.
 
 ## Requirements
 
@@ -55,7 +55,7 @@ npm install --production
 
 ## Team O'Malley
 
-| <a href="https://github.com/mhpicel" target="_blank">**TeamO'Malley**</a> | <a href="https://github.com/hewbahrami" target="_blank">**Team O'Malley**</a> |
+| <a href="https://github.com/mhpicel" target="_blank">**Team 0'Malley**</a> | <a href="https://github.com/hewbahrami" target="_blank">**Team O'Malley**</a> |
 | :---: |:---:|
 | [![Mark Picel](https://avatars0.githubusercontent.com/u/25255730?s=200)](https://github.com/mhpicel)    | [![Hewah Bahrami](https://avatars1.githubusercontent.com/u/47835764?s=200)](https://github.com/hewbahrami) |
 | <a href="https://github.com/mhpicel" target="_blank">`github.com/mhpicel`</a> | <a href="https://github.com/hewbahrami" target="_blank">`github.com/hewbahrami`</a> |
