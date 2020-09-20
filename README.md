@@ -53,9 +53,9 @@ Installing for production:
 npm install --production
 ```
 
-## Team
+## Team O'Malley
 
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
+| <a href="https://github.com/mhpicel" target="_blank">**TeamO'Malley**</a> | <a href="https://github.com/hewbahrami" target="_blank">**Team O'Malley**</a> |
 | :---: |:---:|
 | [![Mark Picel](https://avatars0.githubusercontent.com/u/25255730?s=200)](https://github.com/mhpicel)    | [![Hewah Bahrami](https://avatars1.githubusercontent.com/u/47835764?s=200)](https://github.com/hewbahrami) |
 | <a href="https://github.com/mhpicel" target="_blank">`github.com/mhpicel`</a> | <a href="https://github.com/hewbahrami" target="_blank">`github.com/hewbahrami`</a> |
