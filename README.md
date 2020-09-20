@@ -2,7 +2,11 @@
 
 # MyKEA
 
-> MYKEA Main Pictures Display and Carousel Modal
+> Furniture Platform Main Product Image Display and Carousel
+
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
+
 
 ## Related Projects
 
@@ -19,7 +23,8 @@
 
 ## Usage
 
-> Run `npm install` to install all dependancies (will also install Dev dependancies). To install for deployment, run `npm install --production`.
+> Example url:
+> http://localhost:3000/1
 
 > `run schema` will drop DB and create a new DB with tables.
 > `node db/seed.js` will seed the DB with random products.
@@ -40,7 +45,17 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 From within the root directory:
 
 ```sh
-npm install -g webpack
 npm install
 ```
 
+Installing for production:
+```sh
+npm install --production
+```
+
+## Team
+
+| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
+| :---: |:---:| :---:|
+| [![Mark Picel](https://avatars0.githubusercontent.com/u/25255730?s=200)](https://github.com/mhpicel)    | [![Hewah Bahrami](https://avatars1.githubusercontent.com/u/47835764?s=200)](https://github.com/hewbahrami) |
+| <a href="https://github.com/mhpicel" target="_blank">`github.com/mhpicel`</a> | <a href="https://github.com/hewbahrami" target="_blank">`github.com/hewbahrami`</a> |
