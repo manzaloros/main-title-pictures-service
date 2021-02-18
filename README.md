@@ -1,6 +1,6 @@
 ![Demo Animation](../assets/demo.gif?raw=true)
 
-# MyKEA
+# MyKEA 
 
 > Furniture Platform Main Product Image Display and Carousel
 
